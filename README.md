@@ -28,4 +28,3 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xenotion&show_icons=true&locale=en" alt="xenotion" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xenotion&" alt="xenotion" /></p>
