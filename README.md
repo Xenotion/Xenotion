@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frontend development, Backend development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Xenotion?tab=repositories](https://github.com/Xenotion?tab=repositories)
+- 👨‍💻 All of my projects are available at [HERE](https://github.com/Xenotion?tab=repositories)
 
 - 💬 Ask me about **Software Engineering**
 
